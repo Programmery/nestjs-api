@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"name": "John",
+		"email": "joh@ny.boy",
+		"password": "e9bc0e13a8a16cbb07b175d92a113126",
+		"enabled": true,
+		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTU2Mzk2MjUwOCwiZXhwIjoxNTYzOTc2OTA4fQ.CkWzn3Pj_i_xWGT2WubUqTyyD2pdK00v3bU5SdQEkpQ"
+	},
+	{
+		"id": 2,
+		"name": "Emmy",
+		"email": "em@my.ru",
+		"password": "e9bc0e13a8a16cbb07b175d92a113126",
+		"enabled": true,
+		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImlhdCI6MTU2Mzk2MjU0MSwiZXhwIjoxNTYzOTc2OTQxfQ.gMhxGxiPYYXqOirhmzDM661k08axDyN13h7xd9aYdWM"
+	},
+	{
+		"id": 3,
+		"name": "Danny",
+		"email": "da@ny.ru",
+		"password": "e9bc0e13a8a16cbb07b175d92a113126",
+		"enabled": false
+	}
+]
